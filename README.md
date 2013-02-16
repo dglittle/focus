@@ -1,0 +1,4 @@
+focus
+=====
+
+focussing game
